@@ -30,7 +30,3 @@
 </div>
  
    ![Snake animation](https://github.com/HIGOVIANA/HIGOVIANA/blob/output/github-contribution-grid-snake.svg)
-
-  
-  
-  
