@@ -17,7 +17,7 @@
   <img align="center" alt="Higo-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
   <img align="center" alt="Higo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
   <img align="right" alt="Higo-pic" height="150" style="border-radius:50px;" 
-   src="https://picrew.me/share?cd=PsoDTBLRKt">
+  
 </div>
  
   ##
