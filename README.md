@@ -17,7 +17,7 @@
   <img align="center" alt="Higo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Higo-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
   <img align="center" alt="Higo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
-  <img align="right" alt="Higo-Yoda" src="https://styles.redditmedia.com/t5_5jxmri/styles/profileIcon_l2qamsmmdq781.png?width=256&height=256&crop=256:256,smart&s=f594759a19f437766ecbe4c82721f72350053576"> 
+  
 </div>
  
   ##
