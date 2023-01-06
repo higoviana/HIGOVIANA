@@ -2,7 +2,7 @@
 
 - 💻 Study computer science
 - 🔐 Works with Information Security
-- 📫 Contact me on email: higoviana62@gmail.com
+
 
  <div align="center">
   <a href="https://github.com/HIGOVIANA">
