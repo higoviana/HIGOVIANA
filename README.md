@@ -68,8 +68,13 @@
 
 ---
 
+### ⚡ Live Activity
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=24&center=true&vCenter=true&width=600&lines=Initializing+Security+Systems...;Loading+Threat+Detection...;Analyzing+Malware+Samples...;Blue+Team+Operations+Active...;Welcome+to+my+GitHub"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=22&center=true&vCenter=true&width=600&lines=Monitoring+Logs...;Detecting+Threats...;Analyzing+Malware...;Blue+Team+Active"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HIGOVIANA&theme=tokyonight"/>
 </p>
 
 ### 💭 Mindset
