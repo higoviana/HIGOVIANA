@@ -11,13 +11,11 @@
 - 🎓 Postgraduate in Cybersecurity  
 - 🔐 Information Security Analyst  
 - 🛡️ Focused on Blue Team, Threat Detection and Incident Response  
-- 🧪 Specializing in Malware Analysis (Static & Dynamic)  
 
 ---
 
 ### 🧰 Core Skills
-- 🛡️ Incident Response & Threat Hunting  
-- 🔍 Log Analysis and Correlation (SIEM)  
+- 🛡️ Incident Response & Threat Hunting
 - 📊 Data Loss Prevention (DLP)  
 - 🧪 Malware Analysis & Behavior Analysis  
 - 🔐 Security Monitoring & Alert Triage  
@@ -85,5 +83,5 @@
 ### 🚀 Goals
 - 📚 Deepening knowledge in Malware Analysis  
 - 🧠 Advancing in Threat Intelligence  
-- 🛡️ Becoming a specialist in Blue Team operations  
+- 🛡️ Becoming a specialist in Blue Team
  
